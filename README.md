@@ -83,7 +83,7 @@
 
 ###
 
-<br><br>
+<br clear="both">
 
 <div align="right">
   <a href="https://www.linkedin.com/in/fleps/" target="_blank">
