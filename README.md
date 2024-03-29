@@ -2,9 +2,7 @@
 
 ###
 
-
-<img align="right" height="320" src="/terminal-400px-noloop.gif" />
-</picture>
+<img align="right" width="400" height="320" src="/terminal-400px-opt.gif" />
 
 ###
 
