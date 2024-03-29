@@ -3,7 +3,7 @@
 ###
 
 
-<img align="right" height="320" src="/terminal_animated_profile.gif" />
+<img align="right" height="320" src="/terminal-400px-noloop.gif" />
 </picture>
 
 ###
