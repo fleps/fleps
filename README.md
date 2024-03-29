@@ -15,6 +15,7 @@
 
 <div align="left">
 <picture>
+  <source media='(prefers-color-scheme: dark)' srcset='https://skillicons.dev/icons?i=js'/>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
 </picture>
 &nbsp;&nbsp;
