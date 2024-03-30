@@ -1,4 +1,4 @@
-<h1 align="left">Senior Frontend Engineer <img align="right" width="53" height="53" src="/coding.svg" alt=""/> </h1>
+<h1 align="left">Senior Frontend Engineer <img align="right" width="53" height="53" src="/coding-new.svg" alt=""/> </h1>
 
 ###
 
