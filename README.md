@@ -28,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo" title="Redux Toolkit" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" title="Vite"  />
+  &nbsp;&nbsp;
+  <img src="/vitest-logo.svg" height="30" alt="vite logo" title="Vitest"  />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo" title="Jest"  />
 </div>
 
 ###
