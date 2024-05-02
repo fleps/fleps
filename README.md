@@ -103,9 +103,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="30" alt="sketch logo" title="Sketch" />
 </div>
 
-###
+-----
 
-<div align="right">
+<div>
   <a href="https://www.linkedin.com/in/fleps/" target="_blank" title="LinkedIn Profile Page">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -113,7 +113,15 @@
   </a>
 </div>
 
-###
+### Or see my resume in PDF
+
+<div>
+  <a href="https://www.canva.com/design/DAGDhQUobl4/7dtEcSk-CTyqbK2T-bvvKg/view" target="_blank" title="See Resume in PDF">
+    <img src="/resume_thumbnail.png" alt="resume preview image" />
+  </a>
+</div>
+
+---
 
 <h3>Courses / Certifications</h3>
 
