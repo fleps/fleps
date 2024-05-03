@@ -123,31 +123,49 @@
 
 ---
 
-<h3>Courses / Certifications</h3>
+<h3>Courses & Certifications</h3>
 
-| Courses | Status |
-|:--| :--: |
-| Meta Front-End Developer Professional Certificate | To start |
-| Cosden Project React | To start |
+| On-going / Planned / Interest to learn/improve | Status |
+| :-- | :--: |
+| Shopify Online Store 2.0 theme development from scratch | 85% |
 | A.I Immersion (Alura + Google)| May 6-10 / 2024 |
-| Shopify Online Store 2.0 theme development from scratch | 80% |
-| Complete [React Developer](http://ude.my/UC-b4b776e8-1ca2-4e21-9a8f-db29a3a4de01) (Check the [result project](https://github.com/fleps/clothing-store/tree/releases)) | Completed |
-| React.js: [Building an Interface](https://www.linkedin.com/learning/certificates/68b9ee6a3a84f12b8673c8ee90e3161cb19fea8e073b56a9e2c973ed4b56b67d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BE%2BcPypO6Rzi6U4bMepsIew%3D%3D) (Simple [react app](https://github.com/fleps/appointment-app) as result) | Completed |
-| React [Hooks](https://www.linkedin.com/learning/certificates/dc9ac38bd4f0ea6cc3c72b51b5d041cca22f8e056bbcec52ded4bfca23caf9db)| Completed |
-| React: [Working with APIs](https://www.linkedin.com/learning/certificates/17c0513103f750483bddbf55ba27fde37be09c36143b560466109062b55672b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCU%2BP6EZxQTCER7VjGd5pBw%3D%3D) | Completed |
-| React.js [Essential Training](https://www.linkedin.com/learning/react-js-essential-training-14836121?contextUrn=urn%3Ali%3AlyndaLearningPath%3A593715e0498e9e9be7fb8506) | Completed |
-| [Functional Programing](https://www.linkedin.com/learning/certificates/bfd9f2df8b30e378cdb145ec4c6d726f2869ddfd7281e59fdb32c4f51c19e144?lipi=urn:li:page:d_flagship3_profile_view_base_certifications_details;GiwgXcZsQ9KwpoOLXJ8hhw==) with JavaScript ES6+ | Completed |
-| Migrating from [REST to GraphQL](https://www.linkedin.com/learning/certificates/ebe0a01c4a8f695ea0011b3e04d4acd215980f0d49939014e20bbc9832dc5a08?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BO8483%2F%2FdRveGGEKwr%2F3bDg%3D%3D) | Completed |
-| Learning [GraphQL](https://www.linkedin.com/learning/certificates/d0ff626a7efe148fa62b8859219266c73ff9a4f1da4581bd6bc07a6c67f325cd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6Gj5TUwnT6aB2lI8AicwAQ%3D%3D) | Completed |
-| Learning [REST APIs](https://www.linkedin.com/learning/certificates/eaaa74fe59c70a7ba9d51c7f4b570c8376bd8b30f6b1fa77a8ba26255ef42cf1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2F0dnoJIDSqK3bcNnN2f5DA%3D%3D) | Completed |
-| Introduction to [Web APIs](https://www.linkedin.com/learning/certificates/20412ea3fe13f63bf94ac23014c8bb2afa4b7678560ef532f788837872e163cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2bx8c2WSSaKzKpRH5t6TUw%3D%3D) | Completed |
-| JSON [Essential Training](https://www.linkedin.com/learning/certificates/e4d1767649cc978cfe764af4edb946490e51028d51169de1ab095d91bb0ef400?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTNcFsGxRR%2Fm51DOcheOW6w%3D%3D) |  Completed |
-| [JavaScript Essentials](https://www.linkedin.com/learning/certificates/a4714f13ee1939efac4e8c8d98798ab781a7b277bac5d8948eec42686962df0d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvKUJMT1xQpaKZG51awBKkA%3D%3D) |  Completed |
+| Meta Front-End Developer Professional Certificate | To Start | 
+| Cosden Project React | Planned |
+| Avanced React + Redux 2024 | On the list |
+| React & TypeScript - The Practical Guide | On the list |
+| React advanced TDD with RTL, Vitest, Jest, Cypress and more | On the list |
+| Full stack MERN Real State App | On the list |
+| The complete Vue3 2024 course + Vue3 Fundamentals | On the list |
+| Svelte JS complete guide + SvelteKit | On the list |
+| Learning Spanish | TBD | 
+| Improving English pronunciation | TBD |
+| Chinese / Mandarin | TBD |
+
+--
+
+
+
+| Completed Courses |
+|:--|
+| Complete [React Developer](http://ude.my/UC-b4b776e8-1ca2-4e21-9a8f-db29a3a4de01) (Check the [result project](https://github.com/fleps/clothing-store/tree/releases)) |
+| React.js: [Building an Interface](https://www.linkedin.com/learning/certificates/68b9ee6a3a84f12b8673c8ee90e3161cb19fea8e073b56a9e2c973ed4b56b67d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BE%2BcPypO6Rzi6U4bMepsIew%3D%3D) (Simple [react app](https://github.com/fleps/appointment-app) as result) |
+| React [Hooks](https://www.linkedin.com/learning/certificates/dc9ac38bd4f0ea6cc3c72b51b5d041cca22f8e056bbcec52ded4bfca23caf9db)|
+| React: [Working with APIs](https://www.linkedin.com/learning/certificates/17c0513103f750483bddbf55ba27fde37be09c36143b560466109062b55672b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCU%2BP6EZxQTCER7VjGd5pBw%3D%3D) |
+| React.js [Essential Training](https://www.linkedin.com/learning/react-js-essential-training-14836121?contextUrn=urn%3Ali%3AlyndaLearningPath%3A593715e0498e9e9be7fb8506) |
+| [Functional Programing](https://www.linkedin.com/learning/certificates/bfd9f2df8b30e378cdb145ec4c6d726f2869ddfd7281e59fdb32c4f51c19e144?lipi=urn:li:page:d_flagship3_profile_view_base_certifications_details;GiwgXcZsQ9KwpoOLXJ8hhw==) with JavaScript ES6+ |
+| Migrating from [REST to GraphQL](https://www.linkedin.com/learning/certificates/ebe0a01c4a8f695ea0011b3e04d4acd215980f0d49939014e20bbc9832dc5a08?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BO8483%2F%2FdRveGGEKwr%2F3bDg%3D%3D) |
+| Learning [GraphQL](https://www.linkedin.com/learning/certificates/d0ff626a7efe148fa62b8859219266c73ff9a4f1da4581bd6bc07a6c67f325cd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6Gj5TUwnT6aB2lI8AicwAQ%3D%3D) |
+| Learning [REST APIs](https://www.linkedin.com/learning/certificates/eaaa74fe59c70a7ba9d51c7f4b570c8376bd8b30f6b1fa77a8ba26255ef42cf1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2F0dnoJIDSqK3bcNnN2f5DA%3D%3D) |
+| Introduction to [Web APIs](https://www.linkedin.com/learning/certificates/20412ea3fe13f63bf94ac23014c8bb2afa4b7678560ef532f788837872e163cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2bx8c2WSSaKzKpRH5t6TUw%3D%3D) |
+| JSON [Essential Training](https://www.linkedin.com/learning/certificates/e4d1767649cc978cfe764af4edb946490e51028d51169de1ab095d91bb0ef400?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTNcFsGxRR%2Fm51DOcheOW6w%3D%3D) |
+| [JavaScript Essentials](https://www.linkedin.com/learning/certificates/a4714f13ee1939efac4e8c8d98798ab781a7b277bac5d8948eec42686962df0d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvKUJMT1xQpaKZG51awBKkA%3D%3D) |
 
 ###
+---
 
 <div>
   PS: Not much activity on this profile as most companies I worked/work require developers to use a dedicated / private account (sadly)
 </div>
 
 ###
+---
