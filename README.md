@@ -129,14 +129,17 @@
 | :-- | :--: |
 | Shopify Online Store 2.0 theme development from scratch | 85% |
 | A.I Immersion (Alura + Google)| May 6-10 / 2024 |
-| Meta Front-End Developer Professional Certificate | To Start | 
+| Meta Front-End Developer Professional Certificate | Planned | 
 | Cosden Project React | Planned |
+| Harvard Professional Certificate in Computer Science for Artificial Intelligence | On the list |
 | Avanced React + Redux 2024 | On the list |
 | React & TypeScript - The Practical Guide | On the list |
 | React advanced TDD with RTL, Vitest, Jest, Cypress and more | On the list |
 | Full stack MERN Real State App | On the list |
 | The complete Vue3 2024 course + Vue3 Fundamentals | On the list |
 | Svelte JS complete guide + SvelteKit | On the list |
+| Shopify Hydrogen + GraphQL Storefront API | On the list |
+| Three.JS Journey | TDB |
 | Learning Spanish | TBD | 
 | Improving English pronunciation | TBD |
 | Chinese / Mandarin | TBD |
