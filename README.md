@@ -132,7 +132,7 @@
 | Meta Front-End Developer Professional Certificate | Planned | 
 | Cosden Project React | Planned |
 | Harvard Professional Certificate in Computer Science for Artificial Intelligence | On the list |
-| Avanced React + Redux 2024 | On the list |
+| Advanced React + Redux 2024 | On the list |
 | React & TypeScript - The Practical Guide | On the list |
 | React advanced TDD with RTL, Vitest, Jest, Cypress and more | On the list |
 | Full stack MERN Real State App | On the list |
