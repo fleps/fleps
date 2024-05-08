@@ -138,6 +138,7 @@
 | The complete Vue3 2024 course + Vue3 Fundamentals | On the list |
 | Svelte JS complete guide + SvelteKit | On the list |
 | Shopify Hydrogen + GraphQL Storefront API | On the list |
+| Shopify App Development with Remix | On the list |
 | Three.JS Journey | TDB |
 | Learning Spanish | TBD | 
 | Improving English pronunciation | TBD |
