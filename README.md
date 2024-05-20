@@ -149,7 +149,7 @@
 
 | Completed Courses |
 |:--|
-| A.I Immersion with Gemini by Google Brazil + Alura (Pending cert emission) |
+| [A.I Immersion](https://cursos.alura.com.br/immersion/certificate/0e4fa381-b32f-4085-b00e-42eb0be99a46?lang) with Gemini by Google Brazil + Alura |
 | Shopify [Online Store 2.0 Theme Development](https://www.udemy.com/certificate/UC-fe4c37f7-169c-45c9-a991-03a2c19e5b05/) from scratch (Project [repository](https://github.com/fleps/shopify-basic)) |
 | Complete [React Developer](http://ude.my/UC-b4b776e8-1ca2-4e21-9a8f-db29a3a4de01) (Check the [result project](https://github.com/fleps/clothing-store/tree/releases)) |
 | React.js: [Building an Interface](https://www.linkedin.com/learning/certificates/68b9ee6a3a84f12b8673c8ee90e3161cb19fea8e073b56a9e2c973ed4b56b67d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BE%2BcPypO6Rzi6U4bMepsIew%3D%3D) (Simple [react app](https://github.com/fleps/appointment-app) as result) |
