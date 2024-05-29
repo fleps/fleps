@@ -127,7 +127,7 @@
 
 | On-going / Planned / Interest to learn/improve | Status |
 | :-- | :--: |
-| Meta Front-End Developer Professional Certificate | Planned | 
+| Meta Front-End Developer Professional Certificate | [![Static Badge](https://img.shields.io/badge/In%20Progress-F16436?logo=coursera&logoColor=0056D2&labelColor=white)](https://www.coursera.org/professional-certificates/meta-front-end-developer) | 
 | Cosden Project React | Planned |
 | Harvard Professional Certificate in Computer Science for Artificial Intelligence | On the list |
 | Advanced React + Redux 2024 | On the list |
