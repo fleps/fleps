@@ -127,6 +127,7 @@
 
 | On-going / Planned / Interest to learn/improve | Status |
 | :-- | :--: |
+| Machine Learning Specialization | Planned |
 | Cosden Project React | Planned |
 | Harvard Professional Certificate in Computer Science for Artificial Intelligence | On the list |
 | Advanced React + Redux 2024 | On the list |
