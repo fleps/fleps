@@ -127,6 +127,7 @@
 
 | On-going / Planned / Interest to learn/improve | Status |
 | :-- | :--: |
+| [Professional React & Next.js](https://bytegrad.com/courses/professional-react-nextjs) | [![Static Badge](https://img.shields.io/badge/In_Progress-741560?style=flat&logo=react&logoColor=blue&labelColor=white)](https://bytegrad.com/courses/professional-react-nextjs) |
 | Machine Learning Specialization | Planned |
 | Cosden Project React | Planned |
 | Harvard Professional Certificate in Computer Science for Artificial Intelligence | On the list |
