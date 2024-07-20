@@ -123,6 +123,15 @@
 
 ---
 
+### Check out my [Visual Studio Code Theme](https://marketplace.visualstudio.com/items?itemName=flep.cyber-purple-77)
+<div>
+  <a href="https://marketplace.visualstudio.com/items?itemName=flep.cyber-purple-77" target="_blank" title="Cyber Purple 77 Visual Studio Code Theme">
+    <img src="https://github.com/fleps/cyber-purple-77-vscode-theme/raw/main/assets/CyberPurple77-main-image.png" alt="Cyber Purple 77 Image" />
+  </a>
+</div>
+
+---
+
 <h3>Courses & Certifications</h3>
 
 | On-going / Planned / Interest to learn/improve | Status |
