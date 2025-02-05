@@ -116,7 +116,7 @@
 ### Or see my resume in PDF
 
 <div>
-  <a href="https://drive.google.com/file/d/1HqPAf6tGieP8lvNJnB0IeRBJmnpHi-YS/view?usp=sharing" target="_blank" title="See Resume in PDF">
+  <a href="https://drive.google.com/file/d/105pOnt5MNg8Cp9c48uOWwXrkMZd2cGAo/view?usp=sharing" target="_blank" title="See Resume in PDF">
     <img src="/resume_thumbnail.png" alt="resume preview image" />
   </a>
 </div>
