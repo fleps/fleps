@@ -96,7 +96,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" title="Figma" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo" title="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" title="Photoshop" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo" title="Adobe XD" />
   &nbsp;&nbsp;
